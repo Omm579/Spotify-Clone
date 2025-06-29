@@ -293,7 +293,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Project Maintainer:** Om Debasish
 - **Email:** omdebasish.2006@gmail.com
 - **GitHub:** [@Omm579](https://github.com/Omm579)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/om-debasish-07ba92321)
+- **LinkedIn:** [My LinkedIn](https://linkedin.com/in/om-debasish-07ba92321)
 
 ## 🚀 Deployment
 
