@@ -2,11 +2,11 @@
 
 A modern, feature-rich Spotify clone built with React, TypeScript, and Tailwind CSS. Experience the joy of music with a beautiful interface that rivals the original Spotify, complete with Indian music collection and authentic audio playback.
 
-![Spotify Clone](https://images.pexels.com/photos/3756766/pexels-photo-3756766.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Spotify Clone](https://images.pexels.com/photos/3756766/pexels-photo-3756766.jpeg?auto=compress&cs=tinysrgb&w=500)
 
 ## 🌐 Live Demo
 
-**🚀 [View Live Application](https://frolicking-chebakia-d1cdf5.netlify.app)**
+**🚀 [View Live Application](https://spotifyclone-yourmusicyourway.netlify.app/)**
 
 Experience the full-featured Spotify clone with working audio playback, Indian music collection, and responsive design.
 
@@ -60,8 +60,8 @@ Experience the full-featured Spotify clone with working audio playback, Indian m
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/spotify-clone.git
-   cd spotify-clone
+   git clone https://github.com/Omm579/Spotify-Clone.git
+   cd Spotify-Clone
    ```
 
 2. **Install dependencies**
@@ -288,18 +288,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Links
 
-**🌐 Live Application:** [https://frolicking-chebakia-d1cdf5.netlify.app](https://frolicking-chebakia-d1cdf5.netlify.app)
+**🌐 Live Application:** [https://spotifyclone-yourmusicyourway.netlify.app](https://spotifyclone-yourmusicyourway.netlify.app/)
 
-**Project Maintainer:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Project Maintainer:** Om Debasish
+- **Email:** omdebasish.2006@gmail.com
+- **GitHub:** [@Omm579](https://github.com/Omm579)
+- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/om-debasish-07ba92321)
 
 ## 🚀 Deployment
 
 This application is automatically deployed to Netlify. Every push to the main branch triggers a new build and deployment.
 
-**Deployment URL:** https://frolicking-chebakia-d1cdf5.netlify.app
+**Deployment URL:** https://spotifyclone-yourmusicyourway.netlify.app
 
 To claim this Netlify project and transfer it to your own account, use the claim URL provided during deployment.
 
@@ -309,8 +309,8 @@ To claim this Netlify project and transfer it to your own account, use the claim
 
 **🎵 Made with ❤️ for music lovers everywhere 🎵**
 
-*Experience the joy of music with our Spotify clone - where technology meets melody!*
+*Experience the joy of music with my Spotify clone - your music, your way!*
 
-[⭐ Star this repo](https://github.com/yourusername/spotify-clone) | [🐛 Report Bug](https://github.com/yourusername/spotify-clone/issues) | [💡 Request Feature](https://github.com/yourusername/spotify-clone/issues) | [🌐 View Live Demo](https://frolicking-chebakia-d1cdf5.netlify.app)
+[⭐ Star this repo](https://github.com/Omm579/Spotify-Clone) | [🐛 Report Bug](https://github.com/Omm579/Spotify-Clone/issues) | [💡 Request Feature](https://github.com/Omm579/Spotify-Clone/issues) | [🌐 View Live Demo](https://spotifyclone-yourmusicyourway.netlify.app)
 
 </div>
